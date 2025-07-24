@@ -32,12 +32,12 @@
 ## 运行方法
 1. 确保已安装 MATLAB R2016b 或更高版本
 2. 下载项目文件到本地
-3. 在MATLAB中打开 `snakeGame.mlapp` 主文件
+3. 在MATLAB中打开 `appSnake.mlapp` 主文件
 4. 点击运行按钮 ▶️ 启动游戏
 
 ```matlab
 % 在MATLAB命令行中运行
-run('snakeGame.mlapp');
+run('appSnake.mlapp');
 ```
 
 ## 游戏特点
